@@ -1,9 +1,9 @@
 
 TITLE: 
-Charity - 100% Fully Responsive Free HTML5 Bootstrap Template
+DONATIONS FOR UKRAINE
 
 AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
+Fundrisers
 
 Website: http://freehtml5.co/
 Twitter: http://twitter.com/fh5co
